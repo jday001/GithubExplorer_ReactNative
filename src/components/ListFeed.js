@@ -65,7 +65,8 @@ export default class ListFeed extends Component<Props, State> {
     };
 
     getFeed = () => {
-        const url = `https:/api.github.com/users/${this.props.user['login']}/events`;
+        // const url = `https://api.github.com/users/${this.props.user['login']}/events`;
+        const url = 'https://api.github.com/users/facebook/events'
 
         fetch(url, {
             headers: this.props.authHeader,
