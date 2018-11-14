@@ -2,6 +2,12 @@
 
 This is a version of the GithubExplorer project written in React Native.
 
+#### iOS Version
+![alt text](https://github.com/jdayCBRE/GithubExplorer_ReactNative/blob/master/media/GithubExplorer_RN_iOS.gif)
+
+#### Android Version
+Hopefully coming soon 😬, I have some strange errors I can't figure out how to resolve just to launch the app.
+
 #### Pros
 - iOS and Android apps developed at the same time
 - Live reloading is nice to quickly iterate design changes
