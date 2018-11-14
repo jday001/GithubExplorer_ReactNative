@@ -22,4 +22,4 @@ This is a version of the GithubExplorer project written in React Native.
 | __External Dependencies__ | Literally hundreds. React Native itself is an external dependency. |
 | __Learning Curve__ | Very high. There is code I wrote that just works and I'm still struggling to understand how. |
 
-*This was build without using Redux, as it would have been a huge hammer for a small nail in this small example app. Local state was sufficient for this app's needs. I also find myself questioning a global app state when the best mobile architectures I've worked in are modular and have independent features.
+*This was built without using Redux, as it would have been a huge hammer for a small nail in this small example app. Local state was sufficient for this app's needs. I also find myself questioning a global app state when the best mobile architectures I've worked in are modular and have independent features.
